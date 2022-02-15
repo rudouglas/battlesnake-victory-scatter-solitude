@@ -1,0 +1,18 @@
+.nr1-e97b0f2d-8134-4565-af96-aa37fa4008bd .my-nerdlet{
+  outline:1px solid #000; }
+
+.nr1-e97b0f2d-8134-4565-af96-aa37fa4008bd .EmptyState,.nr1-e97b0f2d-8134-4565-af96-aa37fa4008bd .ErrorState{
+  height:100%;
+  text-align:center; }
+  .nr1-e97b0f2d-8134-4565-af96-aa37fa4008bd .EmptyState-cardBody,.nr1-e97b0f2d-8134-4565-af96-aa37fa4008bd .ErrorState-cardBody{
+    height:100%;
+    box-sizing:border-box;
+    display:flex;
+    flex-direction:column;
+    justify-content:center; }
+
+.nr1-e97b0f2d-8134-4565-af96-aa37fa4008bd .ErrorState-headingText{
+  color:#a9a9a9; }
+
+
+/*# sourceMappingURL=e97b0f2d-8134-4565-af96-aa37fa4008bd--styles~613c97e0.css.map*/
