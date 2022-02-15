@@ -1,19 +1,19 @@
 {
-  "tagline": "",
-  "details": "",
+  "tagline": "Snakes in a Dashboard",
+  "details": "Battlesnake Victory Scatter Solitude",
   "categoryTerms": [],
-  "keywords": [],
-  "repository": "",
-  "whatsNew": "",
+  "keywords": ["snake"],
+  "repository": "https://github.com/rudouglas/battlesnake-victory-scatter-solitude",
+  "whatsNew": "Snakes",
   "support": {
     "email": {
       "address": "rdouglas@newrelic.com"
     },
     "issues": {
-      "url": ""
+      "url": "https://github.com/rudouglas/battlesnake-victory-scatter-solitude/issues"
     },
     "community": {
-      "url": ""
+      "url": "https://github.com/rudouglas/battlesnake-victory-scatter-solitude/pulls"
     }
   }
 }

@@ -1,7 +1,8 @@
-# Submitting Catalog Metadata
+Customers have been asking for centuries, Ruairi they say, New Relic is great and all, we have lots of delicious data but when will we be able to play Snake inside a Victory Chart Custom Visualization in a Dashboard while i'm waiting for data to change so I have work to do?
 
-Run `nr1 catalog:submit` to populate the NR1 Catalog for this Nerdpack. For more information, visit the [New Relic documentation](https://docs.newrelic.com/docs/new-relic-one/use-new-relic-one/build-new-relic-one/discover-manage-applications-new-relic-one-catalog#add_images_metadata_to_apps).
+Well today is the day we can finally tweet from the rooftops, close the 1 million + Feature Requests as complete, EOL demotron and see our stock price soar again (in my experience you fall down ladders, but snakes fly you to the moon).
 
-# Catalog Metadata Content
+To coincide with New Relic's sponsorship of the BattleSnake coding competition, and just weeks away from celebrating St Patricks deportation of all these beautiful creatures from Ireland, behold `Battlesnake Victory Scatter Solitude`.
 
-Visit the [catalog metadata documentation](https://docs.newrelic.com/docs/new-relic-one/use-new-relic-one/build-new-relic-one/discover-manage-applications-new-relic-one-catalog#add_images_metadata_to_apps) for screenshot requirements and information about each field including value types and limits.
+The game is rendered entirely inside a VictoryScatter chart type in a custom viz, and can be played either solo or with many friends or Execs watching on in awe. Honour all the great snakes of our time, Sir Hiss, Kaa, Solid Snake, Snake Plissssskin, Anaconda (sorry J-LO), Bernard the snake from the Britney Spears Slave 4 U video, and Carol Baskin.
+
